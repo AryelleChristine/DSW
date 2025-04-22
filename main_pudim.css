@@ -1,0 +1,44 @@
+body {
+    background-image: url("fundo.png");
+    background-size: cover;
+}
+.mesa{
+    position: fixed;
+    width: 1000px;
+    top: 300px;
+}
+
+.pudim{
+    position: fixed;
+    width: 250px;
+    bottom: 300px;
+    left: 350px;
+}
+
+.colher{
+    position: fixed;
+    width: 80px;
+    top: 330px;
+    left: 320px;
+}
+
+.ameixa{
+    position: fixed;
+    width: 40px;
+    top: 265px;
+    left: 455px;
+}
+
+.morango{
+    position: fixed;
+    width: 40px;
+    top: 350px;
+    left: 500px;
+}
+
+.morango2{
+    position: fixed;
+    width: 40px;
+    top: 350px;
+    left: 400px;
+}
